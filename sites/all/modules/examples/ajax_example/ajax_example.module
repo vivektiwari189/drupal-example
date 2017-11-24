@@ -4,6 +4,10 @@
  * @file
  * AJAX Examples module file with basic examples.
  */
+/**
+ * @file
+ * AJAX Examples module file with basic examples.
+ */
 
 /**
  * @defgroup ajax_example Example: AJAX
